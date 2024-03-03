@@ -1,0 +1,55 @@
+.img-div img{
+    width: 1100px;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.img-div{
+    width: auto;
+    height: 500px;
+    overflow: hidden;
+}
+
+.content {
+    background-color: #922047;
+    color: white;
+    width: 1100px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3rem 6rem;
+}
+
+.content p{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.content h1{
+    font-weight: 500;
+}
+.btns {
+    display: flex;
+    gap: 1rem;
+}
+.icon{
+    position: absolute;
+    left: 90%;
+    top: 112%;
+    z-index: 10;
+}
+.text{
+    width: 1000px;
+    margin-left: 6rem;
+    margin-top: 1rem;
+
+}
+.text p{
+    padding: 1rem 0;
+}
+.colored-text {
+    color: #922047;
+}

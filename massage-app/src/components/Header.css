@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.nav-item {
+    background-color: #a5a4a0;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 1rem 5rem;
+}
+
+.heading {
+    color: #922047;
+    font-weight: 400;
+    margin-left:5rem;
+    margin-bottom: .5rem;
+}
+
+.title{
+    margin-left:5rem;
+    font-size: 15px;
+    font-weight: 500;
+    color: #a5a4a0;
+}
